@@ -1,0 +1,11 @@
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgray;
+}
+
+.datos{
+    font-size: 20px;
+    font-weight: bold;
+}
